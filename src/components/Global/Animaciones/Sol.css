@@ -1,0 +1,29 @@
+.Sol{
+  animation-name: appear;
+  animation-duration: 20s;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+  position: absolute;
+  top: 10%;
+  right: 5%;
+  opacity: 0;
+  z-index: 1;
+  height: 100px;
+  width: 100px;
+}
+
+@keyframes appear {
+  0 {
+    opacity: 0;
+    transform: scale(1);
+  }
+  50%{
+    opacity: 0.6;
+    transform: scale(2);
+
+  }
+  100% {
+    opacity: 0;
+    transform: scale(1);
+  }
+}

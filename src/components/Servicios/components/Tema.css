@@ -1,0 +1,26 @@
+.Tema{
+  margin-top: 35px;
+  padding: 3%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.Tema-texto{
+  font-weight: lighter;
+  text-align: justify;
+}
+
+
+.Tema-proceso{
+  padding: 20px;
+  border: 1px solid rgb(191, 191, 191);
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+
+}
+
+.Tema-btn{
+  margin: 20px ;
+}

@@ -1,0 +1,22 @@
+.SubServicios {
+  position: relative;
+  z-index: 3;
+  padding: 2%;
+  height: calc(100% - 100px);
+  overflow-y: auto;
+  display: flex;
+  align-items: center;
+}
+
+.SubServicios-content {
+  background: white;
+  box-shadow: 2px 2px 10px gray;
+  padding: 20px;
+  display: flex;
+  overflow-x: auto;
+}
+
+.SubServicios-imgs-img{
+  height: 50vh;
+  padding: 0 10px;
+}

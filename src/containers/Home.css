@@ -1,0 +1,64 @@
+.Home-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.Home {
+  overflow-y: auto;
+  box-shadow: 2px 2px 5px gray;
+  margin: 20px auto;
+  padding: 0
+}
+
+.Home-contenido {
+  position: relative;
+  padding: 4%;
+  height: 85%;
+  overflow-y: auto;
+  z-index: 2
+}
+
+.Home-titulos {
+  display: inline-flex;
+  flex-direction: column;
+  padding: 10px;
+  box-shadow: 2px 2px 2px gray;
+  position: relative;
+  z-index: 80
+}
+
+.Home-contenido-cards {
+  margin: 20px 0 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.Home-card {
+  width: 250px;
+  margin-bottom: 10px;
+  box-shadow: 2px 2px 2px gray;
+}
+
+.Home-card p {
+  line-height: 1.2;
+  font-weight: lighter;
+  text-align: justify;
+  font-size: 14px;
+}
+
+.Home-card .card-footer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.Home-fantasma {
+  height: 100px;
+}
+
+.Home-footer {
+  display: flex;
+  justify-content: center;
+}

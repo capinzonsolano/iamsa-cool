@@ -1,0 +1,39 @@
+.ProcessStep-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 5px 0;
+}
+
+.ProcessStep {
+  position: relative;
+}
+
+.ProcessStep-Step {
+  position: absolute;
+  bottom: 0;
+  left: 5px;
+  color: white;
+}
+
+.ProcessStep-Step::before {
+  content: "0"
+}
+
+.ProcessStep-BoxText {
+  position: absolute;
+  left: 5px;
+  top: 0;
+  bottom: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.ProcessStep-Text {
+  color: white;
+  max-width: 245px;
+  font-size: 13px;
+  text-align: justify;
+  line-height: 1.3
+}

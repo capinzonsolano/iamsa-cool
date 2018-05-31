@@ -1,0 +1,28 @@
+.FondoMovil {
+	position: absolute;
+	z-index: 50;
+	bottom: 0;
+	width: 100%;
+	height: 100px;
+  background-repeat: no-repeat;
+  background-position: left;
+  animation-name: moveLeftToRight;
+  animation-timing-function: linear;
+  animation-iteration-count: infinite;
+  animation-duration: 30s;
+}
+
+@keyframes moveLeftToRight {
+  from {
+    background-position: left
+  }
+  to {
+    background-position: right
+  }
+}
+
+.FondoMovil-ciclista {
+  position: absolute;
+  left: calc(50% - 50px);
+  bottom: 22px;
+}

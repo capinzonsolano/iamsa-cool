@@ -1,0 +1,28 @@
+html, body {
+  height: 100%;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+::-webkit-scrollbar {
+  width: 5px;
+  height: 5px;
+}
+::-webkit-scrollbar-button {
+  width: 0px;
+  height: 0px;
+}
+::-webkit-scrollbar-thumb {
+  background: #209e30;
+}
+
+::-webkit-scrollbar-thumb:active {
+  background: #0e8b1d;
+}
+::-webkit-scrollbar-track {
+  background: rgb(245, 245, 245);
+}

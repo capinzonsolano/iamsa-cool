@@ -1,0 +1,51 @@
+.Items {}
+
+.Items-row {
+  margin: 0;
+}
+
+.Item {
+  list-style: none;
+}
+
+.Item-span {
+  color: #209e30;
+}
+
+.Item-span:hover {
+  color: #1a6924
+}
+
+.SubItems {
+  padding: 0;
+  list-style: none;
+}
+
+.SubItem {
+  display: block;
+  color: rgb(55, 55, 55);
+  cursor: pointer;
+  font-size: .95em;
+  line-height: 1.2;
+  margin-top: 8px;
+}
+
+.SubItem:hover {
+  color: #1e2122;
+}
+.SubItem.Link:hover .SubItem-span{
+  background: rgba(98, 181, 108, 0.35)
+}
+.SubItem-span {
+  display: inline;
+  font-weight: lighter;
+}
+
+.SubItem-span::before {
+  content: "- ";
+  color: black;
+}
+
+.Link:hover {
+  text-decoration: none;
+}

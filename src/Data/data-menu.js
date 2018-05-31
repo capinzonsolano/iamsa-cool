@@ -1,0 +1,22 @@
+export default [
+  {
+    title:'Inicio',
+    url:'/'
+  },
+  {
+    title:'Servicios',
+    url:'/Servicios'
+  },
+  {
+    title:'Nosotros',
+    url:'/Nosotros'
+  },
+  {
+    title:'Blog',
+    url:'/Blog'
+  },
+  {
+    title:'Contacto',
+    url:'/Contacto'
+  }
+];
