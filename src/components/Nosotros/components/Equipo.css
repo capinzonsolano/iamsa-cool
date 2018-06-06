@@ -1,0 +1,31 @@
+.Equipo {
+  margin-top: 35px;
+  padding: 3%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.Equipo-cards{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.Equipo-card {
+  margin: 10px 40px;
+}
+
+.Equipo-card-body {
+  width: 270px;
+}
+
+.Equipo-div-img {
+  width: 270px;
+}
+
+.Equipo-img {
+  width: 100%;
+  height: 100%;
+}

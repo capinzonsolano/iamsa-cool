@@ -13,19 +13,19 @@ class SubServicios extends Component {
         <div className="SubServicios">
           <div className="SubServicios-content">
             <Link to='/Servicios/ing1'>
-              <img className="SubServicios-imgs-img" src="../img/servicios_iamsa_01.png" alt="IAMSA Servicios"/>
+              <img className="SubServicios-imgs-img" src="./img/servicios_iamsa_01.png" alt="IAMSA Servicios"/>
             </Link>
             <Link to='/Servicios/des1'>
-              <img className="SubServicios-imgs-img" src="../img/servicios_iamsa_02.png" alt="IAMSA Servicios"/>
+              <img className="SubServicios-imgs-img" src="./img/servicios_iamsa_02.png" alt="IAMSA Servicios"/>
             </Link>
             <Link to='/Servicios/seg1'>
-              <img className="SubServicios-imgs-img" src="../img/servicios_iamsa_03.png" alt="IAMSA Servicios"/>
+              <img className="SubServicios-imgs-img" src="./img/servicios_iamsa_03.png" alt="IAMSA Servicios"/>
             </Link>
             <Link to='/Servicios/cum1'>
-              <img className="SubServicios-imgs-img" src="../img/servicios_iamsa_04.png" alt="IAMSA Servicios"/>
+              <img className="SubServicios-imgs-img" src="./img/servicios_iamsa_04.png" alt="IAMSA Servicios"/>
             </Link>
             <Link to='/Servicios/lic1'>
-              <img className="SubServicios-imgs-img" src="../img/servicios_iamsa_05.png" alt="IAMSA Servicios"/>
+              <img className="SubServicios-imgs-img" src="./img/servicios_iamsa_05.png" alt="IAMSA Servicios"/>
             </Link>
           </div>
         </div>

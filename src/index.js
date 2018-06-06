@@ -1,7 +1,7 @@
 //Dependencies
 import React from 'react';
 import {render} from 'react-dom';
-import {BrowserRouter as Router} from 'react-router-dom';
+import {HashRouter} from 'react-router-dom';
 
 //Routes
 import AppRoutes from './routes';
@@ -11,8 +11,8 @@ import './index.css';
 
 import registerServiceWorker from './registerServiceWorker';
 render(
-  <Router>
+  <HashRouter>
     <AppRoutes/>
-  </Router>,
+  </HashRouter>,
   document.getElementById('root'));
 registerServiceWorker();

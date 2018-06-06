@@ -16,11 +16,11 @@ import Home from './containers/Home';
 const AppRoutes = () =>
   <App>
     <Switch>
-      <Route path="/Servicios" component={Servicios}/>
-      <Route path="/Nosotros" component={Nosotros}/>
-      <Route path="/Blog" component={Blog}/>
-      <Route path="/Contacto" component={Contacto}/>
-      <Route exact path="/" component={Home}/>
+      <Route path={process.env.PUBLIC_URL + "/Servicios"} component={Servicios}/>
+      <Route path={process.env.PUBLIC_URL + "/Nosotros"} component={Nosotros}/>
+      <Route path={process.env.PUBLIC_URL + "/Blog"} component={Blog}/>
+      <Route path={process.env.PUBLIC_URL + "/Contacto"} component={Contacto}/>
+      <Route exact path={process.env.PUBLIC_URL + "/"} component={Home}/>
       <Route component={Page404}/>
     </Switch>
   </App>;

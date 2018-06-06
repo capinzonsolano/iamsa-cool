@@ -11,7 +11,7 @@ class Tema extends Component {
     //Seleccionamos el subservicio adecuado y lo guardamos en elemento
     const elemento = itemsSubServicios.find(e => e.temaId === this.props.match.params.temaId)
     //El texto tiene el párrafo y los bullet points, acá los separamos
-    const arrTexto = elemento.texto.split("-")
+    const arrTexto = elemento.texto.split("_")
     //Quitamos el primer elemento que es el párrafo
     const arrPar = arrTexto.shift()
     // Los elementos restantes son los items

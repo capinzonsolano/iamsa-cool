@@ -7,7 +7,7 @@ class Footer extends React.Component {
   render() {
     return (<div className='Footer row'>
         <div className="Footer-logo-container col-12 col-md-6">
-          <img src="../img/logo-iamsa-expanded.png" alt="Logo IAMSA" className="Footer-logo"/>
+          <img src="./img/logo-iamsa-expanded.png" alt="Logo IAMSA" className="Footer-logo"/>
         </div>
         <div className="col-12 col-md-6">
           <span className="Footer-datos">Nit: 901017791-0</span>

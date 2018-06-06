@@ -22,7 +22,7 @@ class Header extends Component{
         <div className="Header">
           <div className="Header-container-logo">
             <Link to='/'>
-              <img src="../img/logo-iamsa-small.png" alt="Logo IAMSA" className="Header-logo"/>
+              <img src="./img/logo-iamsa-small.png" alt="Logo IAMSA" className="Header-logo"/>
             </Link>
           </div>
           <ul className={this.state.active ? 'Header-menu Header-menu-show': 'Header-menu Header-menu-hide'}>

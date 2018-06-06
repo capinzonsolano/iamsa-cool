@@ -2,7 +2,7 @@ export default[
   {
     "temaId": "ing1",
     "title": "Gestión Integral de Residuos Sólidos",
-    "texto": "En IAMSA SOLUTIONS formulamos planes de gestión integral de residuos sólidos (PGIRS) para el ámbito local y/o regional según sea el caso, en el marco legal de la gestión de residuos sólidos, dentro del cual se incluirán: - Organización para la formulación del PGIRS - Línea base programas y proyectos para la implementación del PGIRS -  Normativas operativas de planeación de evaluación, seguimiento y monitoreo de la gestión de residuos sólidos.",
+    "texto": "En IAMSA SOLUTIONS formulamos planes de gestión integral de residuos sólidos (PGIRS) para el ámbito local y/o regional según sea el caso, en el marco legal de la gestión de residuos sólidos, dentro del cual se incluirán: _ Organización para la formulación del PGIRS _ Línea base programas y proyectos para la implementación del PGIRS _  Normativas operativas de planeación de evaluación, seguimiento y monitoreo de la gestión de residuos sólidos.",
     "proceso": [
       {
         "texto": "Iniciaremos con un diagnóstico situacional de su organización"
@@ -25,7 +25,7 @@ export default[
   }, {
     "temaId": "ing2",
     "title": "Gestión Integral de Residuos Peligrosos",
-    "texto": "En IAMSA SOLUTIONS brindamos asesoría en la implementación y formulación de planes de gestión integral de residuos peligrosos (RESPEL), dentro del cual se incluirá:  - Identificación de Fuentes - Clasificación según peligrosidad de los residuos - Cuantificación de la generación - Alternativas de prevención y minimización de RESPEL Y RAEE - Manejo Interno de los residuos - Manejo Externo de los residuos - Ejecución del Plan de Gestión - Capacitación al personal involucrado en el PGIRESPEL",
+    "texto": "En IAMSA SOLUTIONS brindamos asesoría en la implementación y formulación de planes de gestión integral de residuos peligrosos (RESPEL), dentro del cual se incluirá:  _ Identificación de Fuentes _ Clasificación según peligrosidad de los residuos _ Cuantificación de la generación _ Alternativas de prevención y minimización de RESPEL Y RAEE _ Manejo Interno de los residuos _ Manejo Externo de los residuos _ Ejecución del Plan de Gestión _ Capacitación al personal involucrado en el PGIRESPEL",
     "proceso": [
       {
         "texto": "Iniciaremos con un diagnóstico situacional de su organización"
@@ -48,7 +48,7 @@ export default[
   }, {
     "temaId": "ing3",
     "title": "Estudios de Impacto Ambiental",
-    "texto": "En IAMSA SOLUTIONS realizamos estudios de impacto ambiental, en donde evaluamos las necesidades y los requerimientos de cada proyecto, desarrollando y aplicando soluciones integrales, que permiten mejorar la competitividad de nuestros clientes, y el desarrollo sostenible y sustentable de sus proyectos. Incluiremos: - Descripción general del proyecto (caracterización del área de influencia) - Exigencias previsibles en el tiempo - Matriz de impacto ambiental  - Diagnóstico Ambiental de alternativas  - Plan de manejo ambiental  ",
+    "texto": "En IAMSA SOLUTIONS realizamos estudios de impacto ambiental, en donde evaluamos las necesidades y los requerimientos de cada proyecto, desarrollando y aplicando soluciones integrales, que permiten mejorar la competitividad de nuestros clientes, y el desarrollo sostenible y sustentable de sus proyectos. Incluiremos: _ Descripción general del proyecto (caracterización del área de influencia) _ Exigencias previsibles en el tiempo _ Matriz de impacto ambiental  _ Diagnóstico Ambiental de alternativas  _ Plan de manejo ambiental  ",
     "proceso": [
       {
         "texto": "Iniciaremos con un diagnóstico situacional de su organización"
@@ -88,7 +88,7 @@ export default[
   }, {
     "temaId": "ing5",
     "title": "Sistemas de Gestión Ambiental",
-    "texto": "En todas las organizaciones se presentan procesos productivos los cuales pueden ser optimizados bien sea en función del tiempo o de insumos, es decir volviendo más eficiente la producción, con esto, generando más ingresos a través del tiempo, y acoplándose a un desarrollo sostenible. Por lo anterior, en IAMSA SOLUTIONS Diseñamos estrategias que sistematizan las actividades antrópicas que afectan al ambiente, a través de la aplicación de sistemas que integren: - ISO 9001 - ISO14001 - OHSAS 18001 - Diseño de planes de Producción más limpia. (PML) - Hospitales verdes - Plan Institucional de Gestión Ambiental PIGA ",
+    "texto": "En todas las organizaciones se presentan procesos productivos los cuales pueden ser optimizados bien sea en función del tiempo o de insumos, es decir volviendo más eficiente la producción, con esto, generando más ingresos a través del tiempo, y acoplándose a un desarrollo sostenible. Por lo anterior, en IAMSA SOLUTIONS Diseñamos estrategias que sistematizan las actividades antrópicas que afectan al ambiente, a través de la aplicación de sistemas que integren: _ ISO 9001 _ ISO14001 _ OHSAS 18001 _ Diseño de planes de Producción más limpia. (PML) _ Hospitales verdes _ Plan Institucional de Gestión Ambiental PIGA ",
     "proceso": [
       {
         "texto": "Iniciaremos con un diagnóstico situacional de su organización"
@@ -109,7 +109,7 @@ export default[
   }, {
     "temaId": "ing6",
     "title": "Saneamiento Básico",
-    "texto": "En IAMSA SOLUTIONS brindamos toda la información pertinente al manejo de aspectos externos o internos, relacionados con la/s situación/es que se identifique/n como amenaza/s a la salud humana. En ese orden de ideas, nuestra compañía ofrece a nuestros clientes programas en: - Manipulación de alimentos - Manejo y control de vectores - Sistemas de control de Vertimientos - Sistemas de control de Aguas residuales",
+    "texto": "En IAMSA SOLUTIONS brindamos toda la información pertinente al manejo de aspectos externos o internos, relacionados con la/s situación/es que se identifique/n como amenaza/s a la salud humana. En ese orden de ideas, nuestra compañía ofrece a nuestros clientes programas en: _ Manipulación de alimentos _ Manejo y control de vectores _ Sistemas de control de Vertimientos _ Sistemas de control de Aguas residuales",
     "proceso": [
       {
         "texto": "Iniciaremos con un diagnóstico situacional de su organización"
@@ -151,7 +151,7 @@ export default[
   }, {
     "temaId": "des1",
     "title": "Educación para el Desarrollo Sostenible",
-    "texto": "En IAMSA SOLUTIONS ofrecemos capacitaciones a nuestros clientes en todas nuestras líneas de trabajo, brindándoles las herramientas y los conocimientos necesarios, a través de los cuales logran  construir sus metas y propósitos de la manera más eficiente posible. - Adicional a esto, en IAMSA SOLUTIONS ofrecemos  capacitaciones en: - Manejo ahorro y uso eficiente del agua. - Buenas prácticas de disposición y separación de residuos en la fuente, entre otras.",
+    "texto": "En IAMSA SOLUTIONS ofrecemos capacitaciones a nuestros clientes en todas nuestras líneas de trabajo, brindándoles las herramientas y los conocimientos necesarios, a través de los cuales logran  construir sus metas y propósitos de la manera más eficiente posible. _ Adicional a esto, en IAMSA SOLUTIONS ofrecemos  capacitaciones en: _ Manejo ahorro y uso eficiente del agua. _ Buenas prácticas de disposición y separación de residuos en la fuente, entre otras.",
     "proceso": []
   }, {
     "temaId": "des2",
@@ -161,7 +161,7 @@ export default[
   }, {
     "temaId": "seg1",
     "title": "Sistemas de Gestión de Seguridad y Salud en el Trabajo",
-    "texto": "En IAMSA SOLUTIONS nos preocupa el bienestar de nuestros clientes, por eso brindamos soluciones eficientes enfocadas en optimizar las condiciones laborales, y minimizar los riesgos en las instalaciones  de las compañías.  Algunos de los parámetros que IAMSA evaluará son: - Iluminancia - Presión sonora - Ruido ocupacional - Estrés Térmico",
+    "texto": "En IAMSA SOLUTIONS nos preocupa el bienestar de nuestros clientes, por eso brindamos soluciones eficientes enfocadas en optimizar las condiciones laborales, y minimizar los riesgos en las instalaciones  de las compañías.  Algunos de los parámetros que IAMSA evaluará son: _ Iluminancia _ Presión sonora _ Ruido ocupacional _ Estrés Térmico",
     "proceso": [
       {
         "texto": "Iniciaremos con un diagnóstico situacional de su organización"
