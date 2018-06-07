@@ -19,7 +19,7 @@ export default [
   },
   {
     title:'Estamos listos para ti',
-    texto:'Pongámosnos en contacto, hacemos todos lo posible para que esto sea fácil para ti.',
+    texto:'Pongámonos en contacto, hacemos todo lo posible para que esto sea fácil para ti.',
     url:'/Contacto',
     btn:'Contactar'
   },

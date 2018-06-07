@@ -18,8 +18,8 @@ const AppRoutes = () =>
     <Switch>
       <Route path={process.env.PUBLIC_URL + "/Servicios"} component={Servicios}/>
       <Route path={process.env.PUBLIC_URL + "/Nosotros"} component={Nosotros}/>
-      <Route path={process.env.PUBLIC_URL + "/Blog"} component={Blog}/>
       <Route path={process.env.PUBLIC_URL + "/Contacto"} component={Contacto}/>
+      <Route path={process.env.PUBLIC_URL + "/Blog"} component={Blog}/>
       <Route exact path={process.env.PUBLIC_URL + "/"} component={Home}/>
       <Route component={Page404}/>
     </Switch>

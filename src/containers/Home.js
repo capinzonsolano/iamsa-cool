@@ -17,8 +17,8 @@ class Home extends Component {
         <div className="Home container">
           <Portada>
           <div className="Home-titulos bg-white">
-            <h1 className="text-center text-success">IAMSA Solutions</h1>
-            <h3 className="text-secondary font-italic">Consultoría ambiental e innovación</h3>
+            <h3 className="text-center text-success">IAMSA Solutions</h3>
+            <h5 className="text-secondary font-italic">Consultoría ambiental e innovación</h5>
           </div>
           <div className="Home-contenido">
             <div className="Home-contenido-cards">

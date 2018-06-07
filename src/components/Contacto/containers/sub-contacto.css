@@ -1,0 +1,35 @@
+.SubContacto {
+  position: relative;
+  z-index: 3;
+  padding: 2%;
+  height: calc(100% - 100px);
+  overflow-y: auto;
+  display: flex;
+}
+
+.SubContacto-content {
+  background: white;
+  box-shadow: 2px 2px 10px gray;
+  padding: 20px;
+  display: flex;
+  overflow-x: auto;
+  width: 100%
+}
+
+.SubContacto-imgs-img{
+  height: 50vh;
+  padding: 0 10px;
+}
+
+.SubContacto-form-group{
+  margin-bottom: 5px;
+}
+
+.SubContacto-form-group label{
+  margin: 0
+}
+
+.SubContacto-form-group input{
+  height: 25px;
+  font-size: 14px;
+}

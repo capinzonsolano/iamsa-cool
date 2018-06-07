@@ -1,5 +1,6 @@
 // Dependencies
 import React, {Component} from 'react';
+import {Link} from 'react-router-dom'
 // Components
 import ProcesoPaso from '../../Global/Proceso/Proceso-paso'
 import itemsSubServicios from '../../../Data/data-sub-servicios'
@@ -26,9 +27,9 @@ class Tema extends Component {
         </ul>
       </div>
       <h5>¿Qué harémos?</h5>
-      <button className="btn btn-success Tema-btn">
-        Solicita tu diagnóstico gratuito
-      </button>
+      <Link to="/Contacto/Diagnostico" className="btn btn-success Tema-btn">
+          Solicita tu diagnóstico gratuito
+      </Link>
       <div className="Tema-proceso">
         {
           itemsSubServicios && elemento.proceso.map((item, key) => {
